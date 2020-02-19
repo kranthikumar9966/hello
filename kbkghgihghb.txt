@@ -1,0 +1,30 @@
+The key fingerprint is:
+SHA256:2P+DBQsA69MP5d/D9p6WMcYtwEmMUjNNI2h0i95M/vw ansible@ip-172-31-14-28.ap-south-1.compute.internal
+The key's randomart image is:
++---[RSA 2048]----+
+|    .. ..o*=o    |
+|     .. +o.=+.   |
+|    .  oo.oo .   |
+|   . . *.=. +    |
+|    o + S.+o o . |
+|     . o o.=. * .|
+|        . ooB. = |
+|          .o.+o. |
+|            .+E  |
++----[SHA256]-----+
+.............................................................................................................
+The key fingerprint is:
+SHA256:B1Qf06Fm3m65/+9L24lTZfhzNskSsPjfW7nFTa10Ka8 root@ip-172-31-14-28.ap-south-1.compute.internal
+The key's randomart image is:
++---[RSA 2048]----+
+|        ... o... |
+|       .   o +.  |
+|        . . B  . |
+|         o = o. =|
+|        S o ..=+*|
+|         . . +o%*|
+|            . O=O|
+|             ++oB|
+|             EoO@|
++----[SHA256]-----+
+[root@ip-172-31-14-28 ~]#
